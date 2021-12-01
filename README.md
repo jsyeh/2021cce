@@ -3,6 +3,26 @@
 
 這一段解釋 README.md 是用 MarkDown 語法
 
+```
+1. Chrome設定,變成預設Browser, 再登入GitHub
+2. 安裝 Git for Windows 軟體
+
+3. 開啟 cmd 小黑視窗
+3.1. cd desktop 走到桌面
+3.2. 把雲端的倉庫 複製 下來
+     git clone https://github.com/你的帳號/2021cce
+3.3. 把你的修改,加進去倉庫管理的.git資料
+     cd 2021cce 進入你的倉庫
+     git add . 都加進去
+3.4. git commit -m "這是我第一次用git指令commit"
+     簽名,說你要怎麼上傳。不過第1次上傳出錯,因為要說「你是誰」
+     但你的Chrome太早登入。現在真的要簽名了!!! 只做一次
+          git config --global user.email "jsyeh@mail.mcu.edu.tw"
+          git config --global user.name "jsyeh"
+3.5. 最後,把它推送到雲端
+     git push
+```
+
 # 第01週
 
 程式碼要放到文件中, 要原汁原味, 要用特殊引用  `裡面的字就是引用`  
