@@ -67,3 +67,7 @@ int main() ///圓括號在大寫9,0
 }/// 有個f  雙引號在大寫的 Enter旁
 ```
 # 第02週
+因為疫情關係，開學第01週沒上課。開學第02週的上課內容，其實是這裡的第01週。
+///   File-New-Empty File (Ctrl-Shift-N)沒
+///   File-New-Empty File (Ctrl-Shift-N)卜
+///   File-New-Empty File (Ctrl-Shift-N)
